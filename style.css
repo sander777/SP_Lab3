@@ -1,0 +1,39 @@
+body {
+    color: #aaa;
+    background: #102;
+}
+
+.comment {
+    color: #888;
+}
+
+.keywords {
+    color: #f0f;
+}
+
+.operators {
+    color: #b0f;
+}
+
+.operators_word {
+    color: #b0f;
+}
+
+.delimiters {
+    color: #88f;
+}
+
+.integer {
+    color: #f80;
+}
+
+.hex {
+    color: #f80;
+}
+.double {
+    color: #f80;
+}
+
+.string {
+    color: #8f0;
+}
